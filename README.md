@@ -8,7 +8,6 @@
 - Blog :
 - SNS :
 ------------------
-Study by
 
 :clipboard: Skills
 
