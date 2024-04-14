@@ -6,7 +6,7 @@
 - Name : 김성민(Seongmin Kim)
 - Email : 0411tjdals34@gmail.com
 - Blog :
-- SNS :
+- SNS : https://www.instagram.com/sungmin9513/
 ------------------
 
 :clipboard: Skills
