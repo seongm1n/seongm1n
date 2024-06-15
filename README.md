@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seongm1n%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Pleased%20to%20meet%20you&descAlignY=51&descAlign=62"/>
 </div>
 
+안녕하세요! 👋 저는 도전을 즐기는 개발자입니다. 새로운 기술과 프로젝트에 끊임없이 도전하며 성장하고 있습니다.<br><br>
+[기술 블로그](https://seongm1n.github.io/)는 저의 학습 과정과 회고를 기록하는 공간입니다. 여기에 제가 배운 것들, 해결한 문제들, 그리고 다양한 개발 팁들을 공유하고 있습니다. 이를 통해 다른 개발자들과 지식을 나누고, 함께 성장할 수 있는 커뮤니티를 만들어 가고 있습니다.<br>
+저는 항상 새로운 도전을 찾고 있으며, 끊임없이 배우고 성장하는 것을 목표로 하고 있습니다. 앞으로도 더 많은 프로젝트와 경험을 통해 성장할 것을 기대하며, 이를 기록으로 남겨 더 많은 사람들과 공유하고자 합니다.
+
+
+
 ------------------
 - Name : 김성민(Seongmin Kim)
 - <a href="mailto:0411tjdals34@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:0411tjdals34@gmail.com"/></a>
