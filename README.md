@@ -12,7 +12,7 @@
 - Name : 김성민(Seongmin Kim)
 - <a href="mailto:0411tjdals34@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:0411tjdals34@gmail.com"/></a>
 - <a href="https://seongm1n.github.io"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=bloglovin&logoColor=white&link=https://seongm1n.github.io"/></a>
-- <a href="https://www.instagram.com/sungmin9513/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sungmin9513/"/></a>
+- <a href="https://www.instagram.com/seongmin.io/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seongmin.io/"/></a>
 ------------------
 
 :clipboard: Skills
