@@ -63,6 +63,18 @@ const seongmin = {
 
 <br>
 
+## 🚀 Featured Projects
+
+| 프로젝트 | 설명 | 기술 스택 | 상태 | 링크 |
+|---------|------|-----------|-------|------|
+| <b>ReadIt</b> <br> 📚 AI 리딩 플랫폼 | 영어 문장 생성·리딩·퀴즈 자동화 학습 서비스 | ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white) ![Security](https://img.shields.io/badge/Security-6DB33F?style=flat&logo=springsecurity&logoColor=white) | ![Running](https://img.shields.io/badge/Running-20C997?style=flat&colorA=FFFFFF&colorB=20C997) | 링크 예정 |
+| <b>Cheerlot</b> <br> 🎉 익명 응원 플랫폼 | 익명 응원 메시지로 서로를 북돋는 감성 SNS | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Running](https://img.shields.io/badge/Running-20C997?style=flat&colorA=FFFFFF&colorB=20C997) | 링크 예정 |
+| <b>TimeFit</b> <br> ⏱️ 모임 시간 추천 서비스 | 시간표 기반 최적 모임 시간을 자동 추천 | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Developing](https://img.shields.io/badge/Developing-FFC107?style=flat&colorA=FFFFFF&colorB=FFC107) | 링크 예정 |
+| <b>Challenger</b> <br> 🏆 습관 챌린지 서비스 | 목표·습관 인증 기반 도전 플랫폼 | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Done](https://img.shields.io/badge/Done-4CAF50?style=flat&colorA=FFFFFF&colorB=4CAF50) | 링크 예정 |
+| <b>Comman</b> <br> 🧭 커뮤니티 매니지먼트 | 커뮤니티 운영 및 관리 도구 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Done](https://img.shields.io/badge/Done-4CAF50?style=flat&colorA=FFFFFF&colorB=4CAF50) | 링크 예정 |
+
+<br>
+
 ## 📊 Algorithm Journey
 
 <div align="center">
