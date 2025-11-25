@@ -49,11 +49,13 @@ const seongmin = {
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🔧 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -65,14 +67,13 @@ const seongmin = {
 
 ## 🚀 Featured Projects
 
-| 프로젝트 | 설명 | 기술 스택 | 상태 | 링크 |
-|---------|------|-----------|-------|------|
-| <b>ReadIt</b> <br> 📚 AI 리딩 플랫폼 | AI 기반 개인 맞춤형 영어 학습을 제공하는 서비스 | ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white) ![Security](https://img.shields.io/badge/Security-6DB33F?style=flat&logo=springsecurity&logoColor=white) | ![Running](https://img.shields.io/badge/Running-20C997?style=flat&colorA=FFFFFF&colorB=20C997) | 링크 예정 |
-| <b>CheerLot</b> <br> 🎉 응원 플랫폼 | 야구 직관 시 실시간 응원을 도와주는 소셜 서비스 | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Running](https://img.shields.io/badge/Running-20C997?style=flat&colorA=FFFFFF&colorB=20C997) | 링크 예정 |
-| <b>TimeFit</b> <br> ⏱️ 시간 조율 서비스 | 여러 사람의 일정을 기반으로 최적의 모임 시간을 자동 조정하는 서비스 | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Developing](https://img.shields.io/badge/Developing-FFC107?style=flat&colorA=FFFFFF&colorB=FFC107) | 링크 예정 |
-| <b>Challenger</b> <br> 🏆 도전 플랫폼 | 사용자가 도전을 설정하고 기록하며 성장을 관리할 수 있는 서비스 | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Done](https://img.shields.io/badge/Done-4CAF50?style=flat&colorA=FFFFFF&colorB=4CAF50) | 링크 예정 |
-| <b>Comman</b> <br> 🧭 캠퍼스 정보 앱 | 대학생들을 위한 학교생활 정보 제공 앱 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Done](https://img.shields.io/badge/Done-4CAF50?style=flat&colorA=FFFFFF&colorB=4CAF50) | 링크 예정 |
-
+| 프로젝트 | 설명 | 핵심 기술 스택 | 상태 | 링크 |
+|---------|------|-----------------|--------|------|
+| <b>ReadIt</b> <br> 📚 AI 리딩 플랫폼 | AI 기반 개인 맞춤형 영어 학습 서비스 | Spring AI, MySQL | 운영 중 | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%EB%A6%AC%EB%93%9C%EC%9E%87-ai-%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%98%81%EC%96%B4-%ED%95%99%EC%8A%B5/id6754702442) |
+| <b>CheerLot</b> <br> 🎉 응원 플랫폼 | 야구 직관 시 실시간 응원 소셜 서비스 | Spring Boot, Redis | 운영 중 | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%EC%B3%90%EB%9E%8F-cheerlot/id6748527115) |
+| <b>TimeFit</b> <br> ⏱️ 시간 조율 서비스 | 여러 사람의 일정 기반 최적 모임 시간 자동 조정 | Spring Security, Project Manager | 개발 중 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timefit-dev) |
+| <b>Challenger</b> <br> 🏆 도전 플랫폼 | 도전 기록 및 성장 관리 서비스 | NginX, Jenkins | 완료 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/challenger-c2) |
+| <b>Comman</b> <br> 🧭 캠퍼스 정보 앱 | 대학생 학교생활 정보 제공 앱 | Flutter | 완료 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seongm1n/flutter-academic-management) |
 <br>
 
 ## 📊 Algorithm Journey
