@@ -5,7 +5,7 @@
     <img src="assets/header-light.svg" width="840" alt="theo. — Backend Developer · Problem Solver · Team Player. 기술은 목적이 아니라 도구라고 생각합니다.">
   </picture>
 
-  [`about-theo`](https://about-theo-kappa.vercel.app/) · [`velog`](https://velog.io/@seongm1n) · [`linkedin`](https://www.linkedin.com/in/hellotheo)
+  [`portfolio`](https://about-theo-kappa.vercel.app/) · [`velog`](https://velog.io/@seongm1n) · [`linkedin`](https://www.linkedin.com/in/hellotheo)
 
   <br><br>
 
@@ -23,7 +23,7 @@
 
   <br>
 
-  <a href="https://www.acmicpc.net/user/sungmin9513">
+  <a href="https://solved.ac/profile/sungmin9513">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/boj-dark.svg">
       <img src="assets/boj-light.svg" width="840" alt="Baekjoon 티어와 다음 티어까지의 진행도">
