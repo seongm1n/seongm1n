@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 400" width="840" height="400" role="img" aria-label="neofetch: Backend Developer at 세종AI연구센터. Java, Spring Boot, Python, FastAPI, MySQL, PostgreSQL, Redis, Docker, AWS, Kubernetes, PyTorch, Hugging Face.">
+  <style>
+    text { font: 14px ui-monospace, SFMono-Regular, Menlo, Consolas, "Apple SD Gothic Neo", "Malgun Gothic", monospace; fill: #e6edf3; }
+    .muted { fill: #8b949e; }
+    .k { fill: #6b8afd; font-weight: 700; }
+    .ok { fill: #6b8afd; }
+    .t tspan, .l { animation: show .01s backwards; }
+    .l { animation-duration: .4s; }
+    .cursor { fill: #e6edf3; animation: show .01s 3.4s backwards, blink 1.1s 3.4s steps(1) infinite; }
+
+    @keyframes show { from { opacity: 0; fill-opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+
+  <defs>
+    <pattern id="px" width="16" height="16" patternUnits="userSpaceOnUse" x="56" y="118">
+      <rect width="14" height="14" rx="2" fill="#6b8afd"/>
+    </pattern>
+  </defs>
+
+  <!-- window -->
+  <rect x=".5" y=".5" width="839" height="399" rx="12" fill="none" stroke="#30363d"/>
+  <line x1="1" y1="38" x2="839" y2="38" stroke="#30363d"/>
+  <circle cx="24" cy="19" r="5" fill="#30363d"/>
+  <circle cx="44" cy="19" r="5" fill="#30363d"/>
+  <circle cx="64" cy="19" r="5" fill="#30363d"/>
+  <text class="muted" x="420" y="24" text-anchor="middle">theo@seongm1n: ~</text>
+
+  <!-- $ neofetch, typed -->
+  <text class="t" x="32" y="76"><tspan class="ok">❯</tspan> <tspan style="animation-delay:.5s">n</tspan><tspan style="animation-delay:.6s">e</tspan><tspan style="animation-delay:.7s">o</tspan><tspan style="animation-delay:.8s">f</tspan><tspan style="animation-delay:.9s">e</tspan><tspan style="animation-delay:1s">t</tspan><tspan style="animation-delay:1.1s">c</tspan><tspan style="animation-delay:1.2s">h</tspan></text>
+
+  <!-- logo: the "T" mark from about-theo, as pixels -->
+  <g class="l" style="animation-delay:1.6s">
+    <rect x="56" y="118" width="128" height="32" fill="url(#px)"/>
+    <rect x="104" y="150" width="32" height="96" fill="url(#px)"/>
+  </g>
+
+  <g transform="translate(232 0)">
+    <text class="l" y="116" style="animation-delay:1.6s"><tspan class="k">theo</tspan><tspan class="muted">@</tspan><tspan class="k">seongm1n</tspan></text>
+    <text class="l muted" y="138" style="animation-delay:1.7s">─────────────</text>
+    <text class="l" y="160" style="animation-delay:1.8s"><tspan class="k">role</tspan><tspan x="96">Backend Developer</tspan></text>
+    <text class="l" y="182" style="animation-delay:1.9s"><tspan class="k">org</tspan><tspan x="96">세종AI연구센터 · 선임연구원</tspan></text>
+    <text class="l" y="204" style="animation-delay:2s"><tspan class="k">shipped</tspan><tspan x="96">PickFlow · ReadIt · CheerLot</tspan></text>
+    <text class="l" y="226" style="animation-delay:2.1s"><tspan class="k">backend</tspan><tspan x="96">Java · Spring Boot · Python · FastAPI</tspan></text>
+    <text class="l" y="248" style="animation-delay:2.2s"><tspan class="k">data</tspan><tspan x="96">MySQL · PostgreSQL · Redis</tspan></text>
+    <text class="l" y="270" style="animation-delay:2.3s"><tspan class="k">infra</tspan><tspan x="96">Docker · AWS · Kubernetes</tspan></text>
+    <text class="l" y="292" style="animation-delay:2.4s"><tspan class="k">ai</tspan><tspan x="96">PyTorch · Hugging Face · YOLO</tspan></text>
+    <text class="l" y="314" style="animation-delay:2.5s"><tspan class="k">blog</tspan><tspan x="96">velog.io/@seongm1n</tspan></text>
+
+    <g class="l" style="animation-delay:2.8s">
+      <rect x="0" y="332" width="22" height="14" fill="#30363d"/>
+      <rect x="22" y="332" width="22" height="14" fill="#6b8afd" fill-opacity="0.3"/>
+      <rect x="44" y="332" width="22" height="14" fill="#6b8afd" fill-opacity="0.55"/>
+      <rect x="66" y="332" width="22" height="14" fill="#6b8afd" fill-opacity="0.8"/>
+      <rect x="88" y="332" width="22" height="14" fill="#6b8afd" fill-opacity="1"/>
+    </g>
+  </g>
+
+  <text class="l ok" x="32" y="376" style="animation-delay:3.4s">❯</text>
+  <rect class="cursor" x="50" y="363" width="8" height="16"/>
+</svg>

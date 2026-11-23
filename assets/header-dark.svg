@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" width="840" height="300" role="img" aria-label="theo. Backend Developer">
+  <style>
+    svg { --fg: #e6edf3; --muted: #8b949e; --accent: #6b8afd; --line: #30363d; }
+
+    text { text-anchor: middle; }
+    .eyebrow {
+      font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      letter-spacing: 3px; fill: var(--muted);
+      animation: rise .8s .2s ease-out backwards;
+    }
+    .word {
+      font: 800 112px Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+      letter-spacing: -4px;
+      fill: var(--fg); stroke: var(--fg); stroke-width: 1.5; stroke-opacity: 0;
+      stroke-dasharray: 900;
+      animation: draw 2.4s ease-in-out backwards;
+    }
+    .dot {
+      fill: var(--accent); stroke: none;
+      animation: pop .3s 2.2s backwards, blink 1.8s 3.2s ease-in-out infinite;
+    }
+    .tag {
+      font: 400 15px Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+      fill: var(--muted);
+      animation: rise .8s 2.4s ease-out backwards;
+    }
+    .rail { stroke: var(--line); stroke-width: 1; animation: rise .8s 2s backwards; }
+    .node { fill: var(--line); animation: rise .8s 2s backwards, flash 4s linear infinite; }
+    .n1 { animation-delay: 2s, 2.8s; }
+    .n2 { animation-delay: 2s, 4.3s; }
+    .n3 { animation-delay: 2s, 5.8s; }
+    .packet { opacity: 0; animation: travel 4s 2.8s linear infinite; }
+    .packet circle { fill: var(--accent); }
+
+    @keyframes rise { from { opacity: 0; } }
+    @keyframes pop { from { fill-opacity: 0; } }
+    @keyframes draw {
+      0%   { stroke-dashoffset: 900; stroke-opacity: 1; fill-opacity: 0; }
+      65%  { stroke-dashoffset: 0;   stroke-opacity: 1; fill-opacity: 0; }
+      100% { stroke-dashoffset: 0;   stroke-opacity: 0; fill-opacity: 1; }
+    }
+    @keyframes blink { 50% { fill-opacity: .25; } }
+    @keyframes travel {
+      0%        { transform: translateX(0);     opacity: 1; }
+      75%       { transform: translateX(600px); opacity: 1; }
+      76%, 100% { transform: translateX(600px); opacity: 0; }
+    }
+    @keyframes flash {
+      0%        { fill: var(--accent); }
+      20%, 100% { fill: var(--line); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="tail" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#6b8afd" stop-opacity="0"/>
+      <stop offset="1" stop-color="#6b8afd"/>
+    </linearGradient>
+    <clipPath id="track"><rect x="120" y="205" width="600" height="20"/></clipPath>
+  </defs>
+
+  <text class="eyebrow" x="420" y="56">BACKEND DEVELOPER · PROBLEM SOLVER · TEAM PLAYER</text>
+
+  <text class="word" x="420" y="168">theo<tspan class="dot">.</tspan></text>
+
+  <!-- a request hopping through three services -->
+  <line class="rail" x1="120" y1="215" x2="720" y2="215"/>
+  <g clip-path="url(#track)">
+    <g class="packet">
+      <rect x="50" y="214" width="70" height="2" fill="url(#tail)"/>
+      <circle cx="120" cy="215" r="2.5"/>
+    </g>
+  </g>
+  <circle class="node n1" cx="120" cy="215" r="3.5"/>
+  <circle class="node n2" cx="420" cy="215" r="3.5"/>
+  <circle class="node n3" cx="720" cy="215" r="3.5"/>
+
+  <text class="tag" x="420" y="262">기술은 목적이 아니라 도구라고 생각합니다.</text>
+</svg>
